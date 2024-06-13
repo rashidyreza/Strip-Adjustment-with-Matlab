@@ -16,4 +16,6 @@
 If you had any question fill free to ask
 
 email: rashidyreza76@gmail.com
-[linkedinf](https://www.linkedin.com/in/rezarashidy/)
+
+
+[linked](https://www.linkedin.com/in/rezarashidy/)
