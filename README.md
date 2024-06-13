@@ -18,4 +18,4 @@ If you had any question fill free to ask
 email: rashidyreza76@gmail.com
 
 
-[linked](https://www.linkedin.com/in/rezarashidy/)
+[my linkedin](https://www.linkedin.com/in/rezarashidy/)
