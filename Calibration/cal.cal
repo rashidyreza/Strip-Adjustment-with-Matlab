@@ -1,0 +1,24 @@
+% Calibration data generated on Fri May 17 21:42:54 2019
+% Calculation: Agisoft PhotoScan
+%
+% Camera:      FC300X (3.61 mm)
+% Lens:        unknown
+% Owner:       unknown
+%
+
+Number_of_cameras 1
+
+Camera_id                                      1
+Focal_length      2320.1052500623382000000000000
+Principal_point_x 2001.9224147846980000000000000
+Principal_point_y 1487.4452793843993000000000000
+General_scaling      0.0010000000000000000000000
+Affinity             0.0000000000000082921925443
+Radial_k1           -2.1111843142909867000000000
+Radial_k2            0.5114064109311179400000000
+Radial_k3           -0.0000000000000007419588415
+Tangential_t1        0.0000000000000003128646084
+Tangential_t2       -0.0000000000000015666951612
+Un-orthogonality    -0.0000000000000025414313389
+Sensor_width                      4000    6.2477
+Sensor_height                     3000    4.6858

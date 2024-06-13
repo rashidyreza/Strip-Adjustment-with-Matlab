@@ -1,0 +1,31 @@
+                           Australis Bundle Adjustment Results: Camera Parameters
+
+                                        09 May, 2019   11:13:39
+
+Project:  C:\Australis\Project 1.aus
+
+Adjustment: Free-Network
+Number of Points: 1000
+Number of Images: 10
+RMS of Image coords:    1.00 (um)
+
+Results for Camera 1    FC300X_(3.61_mm)      Lens 
+
+Sensor Size        Pixel Size (mm)
+  H    4000           0.00156192
+  V    3000           0.00156192
+
+  Camera    Initial      Total          Final        Initial         Final
+ Variable    Value     Adjustment       Value       Std. Error     Std. Error
+    C        3.6301      0.00000        3.6301       1.0e+003         0.0016 (mm)
+   XP        0.0107      0.00000        0.0107       1.0e+003         0.0012 (mm)
+   YP        0.1052      0.00000        0.1052       1.0e+003         0.0021 (mm)
+   K1  1.04971e-003   0.000e-000  1.04971e-003       1.0e+003   3.46708e-006
+   K2 -1.12688e-004   0.000e-000 -1.12688e-004       1.0e+003   1.59518e-007
+   K3  1.18093e-006   0.000e-000  1.18093e-006       1.0e+003   8.10201e-009
+   P1  5.39342e-005   0.000e-000  5.39342e-005       1.0e+003   8.47436e-007
+   P2  1.52044e-004   0.000e-000  1.52044e-004       1.0e+003   1.26138e-006
+   B1 -1.12274e-002   0.000e-000 -1.12274e-002       1.0e+003   1.23493e-006
+   B2  5.26621e-003   0.000e-000  5.26621e-003       1.0e+003   6.05917e-007
+
+Maximum Observational Radial Distance Encountered:      1.000 mm

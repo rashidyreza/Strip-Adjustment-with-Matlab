@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calibration>
+  <projection>frame</projection>
+  <width>4000</width>
+  <height>3000</height>
+  <f>2318.20212273621</f>
+  <k1>-0.0196561700125592</k1>
+  <k2>0.028128529149923</k2>
+  <date>2019-05-17T17:32:48Z</date>
+</calibration>

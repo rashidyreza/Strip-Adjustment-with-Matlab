@@ -1,0 +1,24 @@
+                       3DM CalibCam Bundle Adjustment Results: Camera Parameters
+
+                                        17 May, 2019   21:45:37
+
+
+Results for Camera 1    FC300X_(3.61_mm)      Lens 
+
+Image Size         Pixel Size (mm)
+  H    4000           0.00156192
+  V    3000           0.00156192
+
+  Camera        Final             Final
+ Parameter      Value           Std. Error
+    C            3.62382996     1.000e-003 (mm)
+   XP            0.00222170     1.000e-003 (mm)
+   YP            0.01882857     1.000e-003 (mm)
+   K1      8.653781038e-004     1.000e-003
+   K2     -8.592621298e-005     1.000e-003
+   K3     -5.495433158e-019     1.000e-003
+   K4      1.636405617e-020     1.000e-003
+   P1     -3.708930230e-018     1.000e-003
+   P2      5.063986415e-018     1.000e-003
+   B1     -2.243280802e-017     1.000e-003
+   B2     -1.994676583e-020     1.000e-003
