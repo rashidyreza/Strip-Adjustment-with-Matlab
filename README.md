@@ -3,6 +3,8 @@
 
 ### the code include: ###
 
-1- image matching and finding tie points //
-2- Relative Orientation triangulation // 
+1- image matching and finding tie points
+
+2- Relative Orientation triangulation
+
 3- absolute Orientation with 3D conformal and M34 method
