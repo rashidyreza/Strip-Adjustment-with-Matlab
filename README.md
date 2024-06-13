@@ -14,3 +14,6 @@
 ### Run STRIP.m to see the results (you need to check the data directories
 
 If you had any question fill free to ask
+
+email: rashidyreza76@gmail.com
+[linkedinf](https://www.linkedin.com/in/rezarashidy/)
